@@ -1,4 +1,9 @@
-﻿Responsive HTML5 Template
+﻿TIB
+This is a basic and interactive website for TIB using a template. Credits to @[learning-zone](https://github.com/learning-zone/website-templates)
+
+This is a basic and interactive website for TIB using a template.
+
+Responsive HTML5 Template
 
 Swifty business html5 website template is a multi-purpose clean html5 theme built with valid HTML5 & CSS3. This design has a modern look, full-fill with latest standards, It's based on latest Bootstrap framework 3.3.1 fully responsive web compatible with multi browser and devices. This template can be used for multi-purpose needs like business, consultancy, agency, personal portfolio, profile, mobile website and start-up company.
 
