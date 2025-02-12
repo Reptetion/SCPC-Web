@@ -22,12 +22,12 @@ body {
 
 ::selection {
     color: #fff;
-    background: #1371AF;
+    background: #46eb7d;
 }
 
 ::-moz-selection {
     color: #fff;
-    background: #1371AF;
+    background: #46eb7d;
 }
 
 p {
@@ -68,7 +68,7 @@ h3 {
     }
 
 a {
-    color: #1371AF;
+    color: #46eb7d;
     text-decoration: none;
     text-shadow: none;
     -webkit-transition: all 0.2s linear;
@@ -93,7 +93,7 @@ a {
     }
 
 .btn-primary {
-    background: #1371AF;
+    background: #46eb7d;
 }
 
 .form-control {
@@ -122,14 +122,14 @@ a {
 }
 
 .tray {
-    border: 1px solid #1371AF;
+    border: 1px solid #46eb7d;
     padding: 12px;
     margin-bottom: 15px;
     border-radius: 10px;
 }
 
     .tray .fa {
-        color: #1371AF;
+        color: #46eb7d;
         display: block;
         text-align: center;
         font-size: 3em;
@@ -147,7 +147,7 @@ a {
     z-index: 10;
     border-radius: 0;
     /*  box-shadow: 0 0 10px rgba(0,0,0,0.2);
-    border-top: 2px solid #1371AF;*/
+    border-top: 2px solid #46eb7d;*/
 }
 
     .header .navbar-brand {
@@ -155,16 +155,16 @@ a {
     }
 
 .navbar-inverse .navbar-toggle {
-    border-color: #1371AF;
-    background-color: #1371AF;
+    border-color: #46eb7d;
+    background-color: #46eb7d;
 }
 
     .navbar-inverse .navbar-toggle .icon-bar {
-        /*background-color: #1371AF;*/
+        /*background-color: #46eb7d;*/
     }
 
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
-        background: #1371AF;
+        background: #46eb7d;
     }
 
         .navbar-inverse .navbar-toggle:hover .icon-bar {
@@ -172,7 +172,7 @@ a {
         }
 
 .navbar-inverse .navbar-nav > li > a:hover, .navbar-inverse .navbar-nav > li > a:focus {
-    color: #1371AF;
+    color: #46eb7d;
 }
 
 .navbar-toggle {
@@ -183,11 +183,11 @@ a {
     padding: 16px 15px;
     line-height: 18px;
     height: 50px;
-    /*color:#1371AF;*/
+    /*color:#46eb7d;*/
 }
 
 .navbar-brand b {
-    color: #1371AF;
+    color: #46eb7d;
 }
 
 .logo {
@@ -216,12 +216,12 @@ a {
 }
 
 .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover, .navbar-inverse .navbar-nav > .active > a:focus {
-    color: #1371AF;
+    color: #46eb7d;
     background: none;
 }
 
 .navbar-nav > li:hover, .navbar-nav > li a:hover {
-    color: #1371AF;
+    color: #46eb7d;
 }
 
 .header .navbar-nav > li > a {
@@ -249,7 +249,7 @@ a {
         }
 
     .page-section h2 {
-        color: #1371AF;
+        color: #46eb7d;
     }
 
     .page-section p {
@@ -446,12 +446,12 @@ nav#filter {
     nav#filter a {
         padding: 4px 12px;
         line-height: 20px;
-        border: 1px solid #1371AF;
+        border: 1px solid #46eb7d;
         text-decoration: none;
     }
 
 .current {
-    background: #1371AF;
+    background: #46eb7d;
     color: #fff;
 }
 
