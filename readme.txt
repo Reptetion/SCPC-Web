@@ -1,5 +1,5 @@
 ﻿TIB - Coming soon!
 
-This is a simple and interactive website for TIB Corporation.
+This is an interactive website for TIB Corporation.
 
-© 2025 Created by A.C "Reptetion" 
+© 2025 TIB Corporation 
