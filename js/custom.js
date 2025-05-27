@@ -2,7 +2,7 @@
 // Developed by: Samson.Onna
 var customScripts = {
     profile: function () {
-        // portfolio
+        // OUR SERVICES (originally portfolio)
         if ($('.isotopeWrapper').length) {
             var $container = $('.isotopeWrapper');
             var $resize = $('.isotopeWrapper').attr('id');
