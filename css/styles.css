@@ -174,9 +174,9 @@ a {
 /*----Nav ----*/
 .header .navbar-brand {
     float: left;
-    padding: 16px 15px;
+    padding: 10px 0;
     line-height: 18px;
-    height: 50px;
+    height: auto;
     /*color:#46eb7d;*/
 }
 
