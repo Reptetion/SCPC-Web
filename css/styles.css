@@ -367,6 +367,25 @@ a {
 }
 /* Services
     -------------------------------------------------*/
+.service-item {
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  text-align: center;
+  height: 100%;
+  transition: box-shadow 0.3s ease;
+}
+
+.service-item:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+.service-item .icon {
+  color: #46eb7d;
+  margin-bottom: 10px;
+}
+
 .media-heading {
     color: #fff;
 }
