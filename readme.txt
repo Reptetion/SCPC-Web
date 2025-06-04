@@ -2,7 +2,6 @@
 
 This is an interactive website for SC Professional Corporation. 
 
-SC Professional Corporation is dedicated in helping small & medium size business owners keep most of their money in their pockets by delivering timely and efficient services.
-We also help small charities and self managed condo boards reduce their accounting and administration fees by providing cost efficient services.
+Located in Calgary, AB, SC Professional Corporation is dedicated in helping small & medium size business owners keep most of their money in their pockets by providing timely and efficient bookkeeping services. 
 
-© 2025 TIB Corporation 
+© 2025 TIB Corporation - "Proudly presenting a true financial picture of your business"
