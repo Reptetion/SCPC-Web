@@ -14,11 +14,6 @@ body {
     margin-top: 60px;
 }
 
-::selection {
-    color: #fff;
-    background: #46eb7d;
-}
-
 ::-moz-selection {
     color: #fff;
     background: #46eb7d;
