@@ -10,7 +10,7 @@ body {
     font-size: 14px;
     font-family: 'Roboto', 'sans-serif';
     -webkit-font-smoothing: antialiased;
-    background: #fff;
+    background: linear-gradient(to bottom, #f8f8f8, #eaeaea);
     margin-top: 60px;
 }
 
@@ -595,11 +595,6 @@ footer {
     .header .navbar-brand {
         float: left;
         padding: 10px 0px;
-    }
-    .webThemez {
-    width:100%;
-    text-align:center;
-    display:block;
     }
     .bannerOverlay {
         height: 270px;
