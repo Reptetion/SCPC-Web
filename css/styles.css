@@ -14,11 +14,6 @@ body {
     margin-top: 60px;
 }
 
-::-moz-selection {
-    color: #fff;
-    background: #46eb7d;
-}
-
 p {
     color: #858585;
 }
