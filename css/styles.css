@@ -143,10 +143,6 @@ a {
     background-color: #46eb7d;
 }
 
-    .navbar-inverse .navbar-toggle .icon-bar {
-        /*background-color: #46eb7d;*/
-    }
-
     .navbar-inverse .navbar-toggle:hover, .navbar-inverse .navbar-toggle:focus {
         background: #46eb7d;
     }
@@ -159,8 +155,6 @@ a {
     color: #46eb7d;
 }
 
-.navbar-toggle {
-}
 /*----Nav ----*/
 .header .navbar-brand {
     float: left;
@@ -249,9 +243,6 @@ a {
 .darkBg {
     background: #2d3538;
 }
-
-    .darkBg h2 {
-    }
 
     .darkBg h3 {
         color: #CACACA;
