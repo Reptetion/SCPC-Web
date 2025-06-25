@@ -1,7 +1,9 @@
-﻿SC Professional Corporation - Website coming soon!
+﻿Stanley Chuyum Professional Corporation 
 
-This is an interactive website for SC Professional Corporation. 
+This is the official website for Stanley Chuyum Professional Corp. 
 
-Located in Calgary, AB, SC Professional Corporation is dedicated in helping small & medium size business owners keep most of their money in their pockets by providing timely and efficient bookkeeping services. 
+Located in Calgary, Alberta, Stanley Chuyum Professional Corp is dedicated in helping small & medium size business owners keep most of their money in their pockets by providing timely and efficient bookkeeping services!
 
-© 2025 SC Professional Corporation - "Proudly presenting a true financial picture of your business"
+This website is managed and maintained by Aku Chuyum. Template by WebThemez.com. 
+
+© Stanley Chuyum Professional Corporation - "Proudly presenting a true financial picture of your business"
