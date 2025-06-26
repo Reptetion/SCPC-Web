@@ -279,9 +279,15 @@ a {
 }
 /*--- Banner ----*/
 
+.banner-content {
+    position: relative;
+    z-index: 2;
+}
+
 .banner-container {
     width: 100%;
     position: relative;
+    overflow: hidden;
     padding: 0px;
     box-shadow: 0px 0px 1px rgba(0,0,0,0.4);
     max-height: 600px;
@@ -289,6 +295,17 @@ a {
     background: #0d1836 url("../images/banner-bg.jpg") left bottom no-repeat;
     background-size: 100% 100%;
     background-size: cover;
+}
+
+.banner-blur-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    /* backdrop-filter: blur(0.5px); Controls how strong the blur is */
+    background: rgba(13, 24, 54, 0.4); /* Keeps it dark and on-brand */
+    z-index: 1;
 }
 
     .banner-content h2 {
@@ -699,4 +716,3 @@ footer {
         margin: 0 0 23px 5px;
     }
 }
-
