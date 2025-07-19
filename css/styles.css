@@ -303,7 +303,7 @@ a {
     left: 0;
     height: 100%;
     width: 100%;
-    /* backdrop-filter: blur(0.5px); Controls how strong the blur is [OPTIONAL BLUR] */
+    backdrop-filter: blur(0.5px); /* Controls how strong the blur is [OPTIONAL BLUR] */
     background: rgba(13, 24, 54, 0.4); /* Keeps it dark and on-brand [OPTIONAL BLUR]*/
     z-index: 1;
 }
