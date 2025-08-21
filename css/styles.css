@@ -269,14 +269,6 @@ a {
     transition: 500ms;
 }
 
-
-.item-content .fa {
-    color: #80878F !important;
-}
-
-.img-circle {
-    border-radius: 5%;
-}
 /*--- Banner ----*/
 
 .banner-content {
@@ -689,18 +681,6 @@ footer {
     .grid .text-content {
         padding-left: 29%;
         padding-right: 2%;
-    }
-
-    .portfolio-item:hover .folio-info {
-        top: 0px;
-    }
-
-    .portfolio-item .portfolio-desc .folio-info h5 {
-        text-transform: uppercase;
-        text-align: center;
-        font-weight: normal;
-        font-size: 10px;
-        margin: 10px 0 0 0;
     }
 
     nav#filter li {
