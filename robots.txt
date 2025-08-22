@@ -1,0 +1,19 @@
+# robots.txt for https://scproaccounting.ca/
+
+# Allow all crawlers to access main pages
+User-agent: *
+Allow: /
+
+# Block system / design folders (not useful in search results)
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /fonts/
+
+# Block temporary or private files
+Disallow: /readme.txt
+Disallow: /LICENSE
+Disallow: /sitemap.xml~
+
+# Sitemap location
+Sitemap: https://scproaccounting.ca/sitemap.xml
