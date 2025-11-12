@@ -688,3 +688,24 @@ footer {
         margin: 0 0 23px 5px;
     }
 }
+
+/* ==============================
+   Mobile Footer Adjustments
+============================== */
+@media (max-width: 768px) {
+  footer p, footer address {
+    font-size: 16px;
+    text-align: center;
+  }
+
+  footer i {
+    display: inline-block;
+    margin-right: 5px;
+  }
+
+  .copyright .pull-right {
+    float: none !important;
+    text-align: center;
+    margin-top: 10px;
+  }
+}
