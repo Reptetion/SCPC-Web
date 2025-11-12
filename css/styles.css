@@ -695,14 +695,13 @@ footer {
 
 /* --- Service Boxes --- */
 @media (max-width: 768px) {
-  .service-item {
-    margin-bottom: 25px;
-    padding: 15px;
-    text-align: center;
+  .tray i.fa-3x {
+    font-size: 2em; /* smaller icon */
+    margin-bottom: 10px;
   }
 
-  .service-item h4 {
-    font-size: 18px;
+  .tray p {
+    font-size: 14px;
   }
 }
 
@@ -736,16 +735,18 @@ footer {
 /* --- General Section Padding & Text Size --- */
 @media (max-width: 768px) {
   section {
-    padding: 40px 15px !important;
+    padding: 60px 15px;
   }
 
   h2 {
-    font-size: 26px;
+    font-size: 24px;
+    margin-bottom: 20px;
   }
 
   p {
     font-size: 15px;
     line-height: 1.6;
+    margin-bottom: 20px;
   }
 }
 
@@ -767,24 +768,20 @@ footer {
 }
 
 /* --- Navbar (Make More Mobile-Responsive) --- */
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .navbar-brand img {
-    max-height: 45px;
+    max-height: 50px;
+    width: auto;
   }
 
-  .navbar-nav {
+  .navbar-brand {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .navbar-brand span {
+    font-size: 12px;
     text-align: center;
-  }
-
-  .navbar-nav li {
-    display: block;
-    margin: 10px 0;
-  }
-
-  #main-nav .contact-btn {
-    display: block;
-    margin: 15px auto;
-    padding: 14px 20px;
-    width: 80%;
   }
 }
