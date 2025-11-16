@@ -725,7 +725,13 @@ footer {
     margin-right: 5px;
   }
 
-  .copyright .pull-right {
+  .copyright .col-sm-12 { /*adjust SCPC copyright text*/
+    float: none !important;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .copyright .pull-right { /*adjust WebThemez copyright text*/
     float: none !important;
     text-align: center;
     margin-top: 10px;
@@ -767,21 +773,61 @@ footer {
   }
 }
 
-/* --- Navbar (Make More Mobile-Responsive) --- */
+/* --- Hide Slider Arrows on Mobile --- */
 @media (max-width: 768px) {
-  .navbar-brand img {
-    max-height: 50px;
-    width: auto;
-  }
-
-  .navbar-brand {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-
-  .navbar-brand span {
-    font-size: 12px;
-    text-align: center;
+  .da-arrows,
+  .da-arrows span,
+  .flex-direction-nav,
+  .flex-direction-nav a,
+  .owl-nav,
+  .owl-nav button {
+    display: none !important;
   }
 }
+
+/* --- Hide Full Menu Bar --- */
+@media (max-width: 768px) {
+  .navbar-nav,
+  .navbar-collapse {
+    display: none !important;
+  }
+   .navbar-toggle {
+    /* Hide mobile hamburger icon */
+    display: none !important;
+  }
+}
+
+@media (max-width: 768px) {
+  /* Ensure logo [navbar] scales nicely */
+  .navbar-brand img {
+    max-height: 45px;
+  }
+}
+
+/* --- Mobile Contact Info in Navbar --- */
+.mobile-contact {
+    display: none; /* Hide by default */
+}
+
+@media (max-width: 768px) { /* Show only on mobile screens ( =<768px wide )*/
+    .mobile-contact {
+        display: block;
+    }
+}
+
+@media (max-width: 768px) {
+  .mobile-contact {
+    position: absolute;
+    top: 15px;
+    right: 10px;
+    text-align: right;
+    font-size: 10px;
+    line-height: 16px;
+    font-weight: 600;
+    color: #0070C0; 
+  }
+}
+
+/* =====================================
+   End of Mobile Responsive Adjustments
+   ====================================== */
