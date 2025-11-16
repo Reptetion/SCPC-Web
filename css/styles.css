@@ -818,7 +818,7 @@ footer {
 @media (max-width: 768px) {
   .mobile-contact {
     position: absolute;
-    top: 17px;
+    top: 20px;
     right: 10px;
     text-align: right;
     font-size: 10px;
