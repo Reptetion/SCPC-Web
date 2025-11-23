@@ -818,10 +818,10 @@ footer {
 @media (max-width: 768px) {
   .mobile-contact {
     position: absolute;
-    top: 20px;
+    top: 18px; /*prev 20px*/
     right: 10px;
     text-align: right;
-    font-size: 10px;
+    font-size: 8px; /*prev 10px*/
     line-height: 16px;
     font-weight: 600;
     color: #0070C0; 
